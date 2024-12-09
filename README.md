@@ -14,7 +14,8 @@ Entre los aspectos abordados se encuentran:
 
 Este repositorio incluye los siguientes archivos y carpetas:
 
-- `DeepFM / LightFM Multimodal.ipynb`: Notebook de Python para la exploración de datos, reducción de dimensionalidad con PCA, y evaluación de métricas de recomendación.
+- `Preprocesamiento_de_datos.ipynb`: Notebook de Python para la exploración de datos y extracción de información para generar datasets.
+- `LightFM Multimodal.ipynb`: Notebook de Python para la utilización de datos, reducción de dimensionalidad con PCA, y evaluación de métricas de recomendación.
 
 ## Referencias
 
